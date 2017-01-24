@@ -24,6 +24,7 @@ The original idea comes from https://github.com/phfbertoleti/RoboPi, I "stole" t
 * 1 - IMU MPU-9250
 * 1 - cheap camera
 * 1 - GPS (soon)
+* 2 - Rechargeable Power Bank 2200 + battery pack
 
 
 ## The Robot
@@ -35,4 +36,4 @@ The original idea comes from https://github.com/phfbertoleti/RoboPi, I "stole" t
 
 
 
-This project is ongoing I will try to update every week but not promises! :-)
+# This project is ongoing I will try to update moth but not promises! :-)
