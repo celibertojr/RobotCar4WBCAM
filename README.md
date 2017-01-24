@@ -7,7 +7,7 @@
 The original idea comes from https://github.com/phfbertoleti/RoboPi, I "stole" the idea and made some changes.
 
 
-## Parts
+## Diagram (original project)
 
 ![img](img/diagrama.jpg)
 
@@ -15,6 +15,15 @@ The original idea comes from https://github.com/phfbertoleti/RoboPi, I "stole" t
 
 
 ![img](img/drive.jpg)
+
+
+# Sensors and parts
+
+1 - Raspberry PI 3
+2 - Speedy Sensor Encoder
+1 - IMU MPU-9250
+1 - cheap camera
+1 - GPS (soon)
 
 
 ## The Robot
