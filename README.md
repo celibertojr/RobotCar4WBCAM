@@ -11,11 +11,13 @@ The original idea comes from https://github.com/phfbertoleti/RoboPi, I "stole" t
 
 ![img](img/diagrama.jpg)
 
+
+
 ## Motor Drive Circuit
-
-
 ![img](img/drive.jpg)
-
+* GPIO18	pin 12	Left motor
+* GPIO23	pin 16	Right motor
+* GND	    pin 06  
 
 # Sensors and parts
 
