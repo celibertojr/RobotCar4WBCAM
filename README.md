@@ -19,9 +19,9 @@ The original idea comes from https://github.com/phfbertoleti/RoboPi, I "stole" t
 
 ## The Robot
 
-![img](img/carro1.jpg)
+![img](img/carro1.JPG)
 
-![img](img/carro2.jpg)
+![img](img/carro2.JPG)
 
 
 
