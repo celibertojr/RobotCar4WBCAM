@@ -36,4 +36,4 @@ The original idea comes from https://github.com/phfbertoleti/RoboPi, I "stole" t
 
 
 
-# This project is ongoing I will try to update moth but not promises! :-)
+# This project is ongoing I will try to update every moth but not promises! :-)
