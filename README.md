@@ -19,11 +19,11 @@ The original idea comes from https://github.com/phfbertoleti/RoboPi, I "stole" t
 
 # Sensors and parts
 
-1 - Raspberry PI 3
-2 - Speedy Sensor Encoder
-1 - IMU MPU-9250
-1 - cheap camera
-1 - GPS (soon)
+* 1 - Raspberry PI 3
+* 2 - Speedy Sensor Encoder
+* 1 - IMU MPU-9250
+* 1 - cheap camera
+* 1 - GPS (soon)
 
 
 ## The Robot
