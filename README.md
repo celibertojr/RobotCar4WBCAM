@@ -4,7 +4,7 @@
 
 ## Original idea
 
-The original idea comes from https://github.com/phfbertoleti/RoboPi, I "stole" the idea and made some changes.
+The original idea comes from https://github.com/phfbertoleti/RoboPi.
 
 
 ## Diagram (original project)
